@@ -13,7 +13,7 @@
          alt="Duke Java Waving"/>
     <h3 align="left">Um pouco sobre mim...</h3>
     <p align="left">
-        🎓 <strong>Estudante de Ciência da Computação na UNIJUÍ (4º semestre), com grande interesse pela área devido à capacidade de transformar requisitos em produto de software
+        🎓 <strong>Estudante de Ciência da Computação na UNIJUÍ (4º semestre), gosto de transformar requisitos em produto de software
             funcional, seguro e escalável, que gera impacto direto na rotina das pessoas.<br/>
         ☕ Atualmente focado em <strong>Desenvolvimento Backend</strong> com <strong>Java</strong> & <strong>Spring/Spring Boot</strong>.<br/>
     </p>
