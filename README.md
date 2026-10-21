@@ -14,7 +14,7 @@
     <h3 align="left">Um pouco sobre mim...</h3>
     <p align="left">
         🎓 <strong>Estudante de Ciência da Computação na UNIJUÍ, 4º semestre.<br/>
-        ☕ Atualmente focado em <strong>Desenvolvimento Backend</strong> com <strong>Java</strong> & <strong>Spring/Spring Boot</strong>.<br/>
+        ☕ Atualmente focado em Desenvolvimento Backend com Java & Desenvolvimento Web com Spring/Spring Boot.</strong><br/>
     </p>
 </div>
 
